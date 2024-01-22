@@ -1,8 +1,0 @@
-; Example of comment
-MOV adsa00, 1
-ADD b, a
-DIV a, 0x10
-#directive
-SUB c, 21.2
-MOV c, 'a'
-DIV d, "asd"
